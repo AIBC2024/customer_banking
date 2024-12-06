@@ -2,21 +2,21 @@
 Python Challenge AI Bootcamp due 12/17/2024
 
 1. Starter files:
-    a. Accounts.py - contains Account classes
-    b. savings_account.py
-    c. cd_account.py
-    d. customer_banking.py
-    e. Account.py - contains the class with methods to set the balance and interest
+    * Accounts.py - contains Account classes
+    * savings_account.py
+    * cd_account.py
+    * customer_banking.py
+    * Account.py - contains the class with methods to set the balance and interest
 
 
 ## Project Overview
 1. Create a customer banking system that allows users to calculate and track interest earned on Savings and CD accounts
 2. Run Python program where users can:
-    a. Enter their savings and CD original balance info
-    b. Enter the interest rate (%APR)
-    c. Enter the term in months. Note: if months entered is not integer it will discard any decimals from data entry
-    d. The customer_banking,py program will calculate the new balances with the parameters entered above and provide summary
-    e. Validations are placed if numbers are not positive or include special characters
+    * Enter their savings and CD original balance info
+    * Enter the interest rate (%APR)
+    * Enter the term in months. Note: if months entered is not integer it will discard any decimals from data entry
+    * The customer_banking,py program will calculate the new balances with the parameters entered above and provide summary
+    * Validations are placed if numbers are not positive or include special characters
 
 ## How I did my work
 1. Downloaded the homework starter file
